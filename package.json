@@ -1,0 +1,17 @@
+{
+  "name": "threejs-tutorial",
+  "version": "1.0.0",
+  "main": "index.js",
+  "license": "MIT",
+  "scripts": {
+    "dev": "vite",
+    "build": "vite build",
+    "preview": "vite preview"
+  },
+  "devDependencies": {
+    "vite": "^8.1.0"
+  },
+  "dependencies": {
+    "three": "^0.184.0"
+  }
+}
